@@ -11,7 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-  HELLO CD!
+  HELLO CD Project!
   <h1>www.cd.com</h1>
   </body>
 </html>
